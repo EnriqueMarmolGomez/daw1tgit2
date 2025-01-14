@@ -1,0 +1,37 @@
+    1  cd /t
+    2  ls -l
+    3  cs musiquita
+    4  cd musiquita
+    5  ls -l
+    6  cs ..
+    7  cd ..
+    8  mkdir daw1tgit2
+    9  cd daw1tgit2
+   10  cd ..
+   11  ENDES
+   12  cd ENDES
+   13  cs ENDES Y SIINF
+   14  cd ENDES Y SIINF
+   15  cd ENDES Y SIINF
+   16  cd ENDESYSIINF
+   17  cd daw1tgit2
+   18  git init
+   19  git init
+   20  cd .git
+   21  git add primerospasos.txt
+   22  cd ..
+   23  git add primerospasos.txt
+   24  cd .git
+   25  git config user.name
+   26  git config user.name=" "
+   27  cd ..
+   28  git config user.email
+   29  git config user.name= ""
+   30  git remote add origin "https://github.com/EnriqueMarmolGomez/daw1tgit2.git"
+   31  cs t
+   32  cd t
+   33  ls -l
+   34  cd daw1tgit2/
+   35   git config -list
+   36   git config --list
+   37  history > fhist_140125.txt
